@@ -21,7 +21,8 @@ class MyApp extends App {
     return (
       <React.Fragment>
         <Head>
-          <title>StockIt</title>
+          {/* Update your Shopify APP */}
+          <title>Sample APP</title>
           <meta charSet="utf-8" />
         </Head>
         <Provider config={config}>
